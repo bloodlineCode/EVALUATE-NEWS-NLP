@@ -1,0 +1,16 @@
+$bgcolor: rgba(202, 202, 202, 0.7);
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
